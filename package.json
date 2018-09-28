@@ -28,15 +28,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bentz/gulp-cmd-transport"
+    "url": "https://github.com/huaxinjiayou/gulp-cmd-transport"
   },
   "keywords": [
     "gulpplugin"
   ],
-  "author": "Bentz <lv.bentz@gmail.com> (https://github.com/bentz)",
+  "author": "huaxinjiayou <huaxinjiayou@gmail.com> (https://github.com/huaxinjiayou)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bentz/gulp-cmd-transport/issues"
+    "url": "https://github.com/huaxinjiayou/gulp-cmd-transport/issues"
   },
-  "homepage": "https://github.com/bentz/gulp-cmd-transport"
+  "homepage": "https://github.com/huaxinjiayou/gulp-cmd-transport"
 }
