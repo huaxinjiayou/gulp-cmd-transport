@@ -1,5 +1,5 @@
 {
-  "name": "gulp-cmd-transport",
+  "name": "gulp-cmd-transport-nowcoder",
   "version": "0.1.1",
   "description": "ported from grunt-cmd-transpor.",
   "main": "index.js",
